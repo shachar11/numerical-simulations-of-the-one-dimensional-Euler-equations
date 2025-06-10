@@ -36,10 +36,9 @@ It compares the results of these solvers with reference data (Torro data) and vi
 - torro_exact_solution/ — Folder for Torro reference CSV files for the exact solution.
 - torro_HLLC_solver/, torro_Roe-Pike_solver/ — Folders for Torro reference CSV files for each solver.
 
-Notes
-Developed as a final project for a university CFD course.
-Intended for educational and demonstration purposes.
-Ensure all reference files are correctly named and placed.
-For a detailed explanation, see the attached document:
-Shachar_Charash_Final_Project
+## Notes
+- Developed as a final project for a university CFD course.
+- Intended for educational and demonstration purposes.
+- Ensure all reference files are correctly named and placed.
+- For a detailed explanation, see document - Shachar_Charash_Final_Project.pdf
 
