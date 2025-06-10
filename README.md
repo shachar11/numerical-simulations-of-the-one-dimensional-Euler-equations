@@ -32,9 +32,9 @@ It compares the results of these solvers with reference data (Torro data) and vi
 - torro_Roe-Pike_solver/
 
 3. **File Structure:**
-   final_project.py — Main script containing all solvers, data extraction, and plotting routines.
-   torro_exact_solution/ — Folder for Torro reference CSV files for the exact solution.
-   torro_HLLC_solver/, torro_Roe-Pike_solver/ — Folders for Torro reference CSV files for each solver.
+- final_project.py — Main script containing all solvers, data extraction, and plotting routines.
+- torro_exact_solution/ — Folder for Torro reference CSV files for the exact solution.
+- torro_HLLC_solver/, torro_Roe-Pike_solver/ — Folders for Torro reference CSV files for each solver.
 
 Notes
 Developed as a final project for a university CFD course.
