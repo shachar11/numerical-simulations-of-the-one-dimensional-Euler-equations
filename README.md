@@ -26,15 +26,20 @@ It compares the results of these solvers with reference data (Torro data) and vi
   The script will run all cases and solvers, print progress to the terminal, and save plots as PNG files.
   
 2. **Reference Data:**
-- Place the Torro reference CSV files in the appropriate folders (torro_exact_solution/ and torro_HLLC_solver/, etc.) as expected by the script.
+- The Toro reference CSV files are placed in the expected folders:
+- torro_exact_solution/
+- torro_HLLC_solver/
+- torro_Roe-Pike_solver/
 
 3. **File Structure:**
-final_project.py — Main script containing all solvers, data extraction, and plotting routines.
-torro_exact_solution/ — Folder for Torro reference CSV files for the exact solution.
-torro_HLLC_solver/, torro_Roe-Pike_solver/ — Folders for Torro reference CSV files for each solver.
+   final_project.py — Main script containing all solvers, data extraction, and plotting routines.
+   torro_exact_solution/ — Folder for Torro reference CSV files for the exact solution.
+   torro_HLLC_solver/, torro_Roe-Pike_solver/ — Folders for Torro reference CSV files for each solver.
+
 Notes
-This code was developed as a final project for a university CFD course.
-The implementation is intended for educational and demonstration purposes.
-For best results, ensure all reference data files are present and named as expected.
-For a through explantion read the attached documant - Shachar_Charash_Final_Project
+Developed as a final project for a university CFD course.
+Intended for educational and demonstration purposes.
+Ensure all reference files are correctly named and placed.
+For a detailed explanation, see the attached document:
+Shachar_Charash_Final_Project
 
